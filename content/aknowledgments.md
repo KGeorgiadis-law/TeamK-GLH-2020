@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-image: 
+image: person-writing-on-brown-printer-paper-3826674.jpg
 imageMeta:
   attribution:
   attributionLink:

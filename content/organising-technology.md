@@ -9,7 +9,7 @@ authors:
   - me
 date: 
 tags:
-  - hearings
+  - organising
 ---
 
 >In the two-week period between 23 March and 6 April 2020, audio hearings across all courts and tribunals in England and Wales (not only in family courts) increased by over 500%, and video hearings by 340%” Remote Hearings Rapid Review – [Nuffield Family Justice Observatory](https://www.judiciary.uk/announcements/president-of-the-family-division-welcomes-nuffield-report-into-effectiveness-of-remote-hearings-during-covid-19/)

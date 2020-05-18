@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
+      title: 'Team K',
       description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: 'https://images.unsplash.com/photo-1505664194779-8beaceb93744',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
-        route: 'page',
-        id: 'chris-manson'
+        label: 'Built for the FT - Global Legal Hackathon',
+//         route: 'page',
+//         id: 'chris-manson'
       }]
     },
 

@@ -8,4 +8,13 @@ twitter:
 facebook:
 location:
 ---
-You can delete this user to remove all the welcome posts
+---
+name: me
+id: me
+image: /images/ghost-icon.png
+cover:
+website: 
+twitter:
+facebook:
+location:
+---

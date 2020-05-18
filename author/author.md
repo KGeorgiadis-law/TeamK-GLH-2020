@@ -8,7 +8,6 @@ twitter:
 facebook:
 location:
 ---
----
 name: me
 id: me
 image: /images/ghost-icon.png

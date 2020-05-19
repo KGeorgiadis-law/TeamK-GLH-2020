@@ -1,5 +1,5 @@
 ---
-title: Editing Posts with empress-blog
+title: Welcome to the Open Justice Information Platform
 image: /images/writing.jpg
 imageMeta:
   attribution:
@@ -12,9 +12,11 @@ tags:
   - getting-started
 ---
 
-empress-blog uses a language called **Markdown** to format text, and so does the original Ghost 🎉
+This site is an open information platform to share practical innovation relating to access to justice and technology. This site explores practical themes relating to hearings and proceedings and allows practitioners to share observations and ideas, which may form the basis of further innovation.
 
-The main difference between the hosted Ghost platform and empress-blog is that we just use files on disk, so you can either edit your Markdown files directly or you can use a desktop Markdown editor. It keeps things simple but it can sometimes feel like you are writing on pro-mode 😎
+The site is built on Empress-blog,which uses a language called **Markdown** to format text. 
+
+Readers can edit  Markdown files directly or you can use a desktop Markdown editor. 
 
 If you want to start a new post we recommend that you use the built in generator `ember generate post "The next big thing - empress-blog"`. This will create a file for you and setup the start of the metadata.
 

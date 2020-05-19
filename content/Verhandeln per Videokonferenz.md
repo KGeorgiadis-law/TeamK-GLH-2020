@@ -1,5 +1,5 @@
 ---
-title:  Verhandeln per Videokonferenz / Video Hearings (German with English Summary)
+Verhandeln per Videokonferenz - Video Hearings (German with English Summary)
 image: /images/advanced.jpg
 imageMeta:
   attribution:

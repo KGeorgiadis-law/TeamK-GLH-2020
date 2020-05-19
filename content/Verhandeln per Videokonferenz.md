@@ -11,7 +11,7 @@ Where parties to different proceedings all hold the same dial in information and
 
 Image: German local video conferencing facility with temporary infection prevention screen
  
-**Verhandeln per Videokonferen**
+**Verhandeln per Videokonferenz**
 
 Im Rahmen der Covid 19 -Krise haben die Gerichte zunehmend angeordnet, dass Termine gemäß § 128a Abs. 1 ZPO per Videokonferenz stattfinden. Damit wird den Parteien die Möglichkeit eröffnet, die Termine per Online-Übertragung wahrzunehmen, wodurch das persönliche Erscheinen nicht mehr zwingend erforderlich ist und die Infektionsgefahr bzw. eine weitere Ausbreitung des Virus ausgeschlossen wird.  
 Die Gerichte nutzen dabei keine einheitliche Software, sondern verwenden zum Beispiel Skype oder Cisco Jabber. Aufgrund fehlender Freigaben durch die IT-Abteilung und das Corporate Risk Management war es nicht möglich die Termine kurzfristig via Videoübertragung wahrzunehmen, sodass die Fahrt zu Gericht erforderlich war.  

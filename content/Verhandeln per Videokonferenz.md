@@ -1,13 +1,6 @@
 ---
 Verhandeln per Videokonferenz - Video Hearings (German with English Summary)
-image: /images/advanced.jpg
-imageMeta:
-  attribution:
-  attributionLink:
-featured: true
-authors:
-date:
-tags: Court Facilities
+---
 
 **English summary information
 

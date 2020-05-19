@@ -6,7 +6,6 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
- - me
 date:
 tags:
   - Court Facilities

@@ -7,8 +7,7 @@ imageMeta:
 featured: true
 authors:
 date:
-tags:
-  - Court Facilities
+tags: Court Facilities
 
 **English summary information
 

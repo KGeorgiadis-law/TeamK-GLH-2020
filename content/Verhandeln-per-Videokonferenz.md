@@ -12,8 +12,6 @@ tags:
   - hearings
 ---
 
-## English summary information
-
 In German and English courts, there is no single software solution which is used by all courts. Courts may use Skype or Teams.
 In the regional court for Bayreuth, there are specific facilities for video conferencing. A permanent conferencing facility is available within the largest court room, as well as more dispersed facilities, which as a rule are available at public libraries. There is enough space, generally, to conduct proceedings within the large court room area without risk of infection. Within public library spaces, a plexi-glass screen has been installed to minimise infection risk between the individuals present.
 Proceedings have generally run well, based on observation of around 30 hearings. On one occasion, a Judge has stepped in with an audio connection via a mobile phone, where a party was struggling to hear the proceedings.

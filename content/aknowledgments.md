@@ -12,10 +12,6 @@ tags:
   - aknowledgments
 ---
 
-<a style="float: right" target="_blank" href="https://github.com/KGeorgiadis-law/empress-blog-netlify-casper-template/edit/master/content/aknowledgments.md">Edit this page on GitHub</a>
-
-# Acknowledgements
-
 In collating these ideas and suggestions, we are very grateful to representatives on behalf of a number of courts, including in particular: 
 
 + (names to be added with consent) 

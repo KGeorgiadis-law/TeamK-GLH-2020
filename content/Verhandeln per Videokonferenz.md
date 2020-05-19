@@ -2,7 +2,7 @@
 Verhandeln per Videokonferenz - Video Hearings (German with English Summary)
 ---
 
-**English summary information
+**English summary information**
 
 In German and English courts, there is no single software solution which is used by all courts. Courts may use Skype or Teams.
 In the regional court for Bayreuth, there are specific facilities for video conferencing. A permanent conferencing facility is available within the largest court room, as well as more dispersed facilities, which as a rule are available at public libraries. There is enough space, generally, to conduct proceedings within the large court room area without risk of infection. Within public library spaces, a plexi-glass screen has been installed to minimise infection risk between the individuals present.
@@ -11,7 +11,7 @@ Where parties to different proceedings all hold the same dial in information and
 
 Image: German local video conferencing facility with temporary infection prevention screen
  
-**Verhandeln per Videokonferenz
+**Verhandeln per Videokonferen**
 
 Im Rahmen der Covid 19 -Krise haben die Gerichte zunehmend angeordnet, dass Termine gemäß § 128a Abs. 1 ZPO per Videokonferenz stattfinden. Damit wird den Parteien die Möglichkeit eröffnet, die Termine per Online-Übertragung wahrzunehmen, wodurch das persönliche Erscheinen nicht mehr zwingend erforderlich ist und die Infektionsgefahr bzw. eine weitere Ausbreitung des Virus ausgeschlossen wird.  
 Die Gerichte nutzen dabei keine einheitliche Software, sondern verwenden zum Beispiel Skype oder Cisco Jabber. Aufgrund fehlender Freigaben durch die IT-Abteilung und das Corporate Risk Management war es nicht möglich die Termine kurzfristig via Videoübertragung wahrzunehmen, sodass die Fahrt zu Gericht erforderlich war.  

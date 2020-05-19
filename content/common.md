@@ -12,8 +12,6 @@ tags:
   - hearings
 ---
 
-# Common ground – where video and audio hearings work well 
-
 Directions hearings have been held by telephone before the COVID pandemic, and courts might consider whether it is advantageous to continue or increase this practice. 
 
 Courts, such as the Supreme Court, which consider points of law only and which do not hear evidence, may find it easier to conduct hearings virtually, as the discussions can be conducted without need for cross-examination or consideration of papers and materials. 
